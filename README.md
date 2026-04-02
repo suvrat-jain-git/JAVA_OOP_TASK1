@@ -133,5 +133,6 @@ i1.processOrder("CDM", "b1", 5);              // Buy 5 units from batch b1
 ---
 
 ## 👤 Author
-SUVRAT JAIN<br>
+Suvrat Jain<br>
+Github Link: https://github.com/suvrat-jain-git/JAVA_OOP_TASK1.git<br>
 Woolsworth Inventory Management — Java OOP Assignment
