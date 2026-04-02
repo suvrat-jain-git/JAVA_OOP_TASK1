@@ -6,7 +6,7 @@ import com.woolsworth.NonPerishable;
 
 import java.time.LocalDate;
 
-class RunInventory {
+class InventoryRun {
     public static void main(String[] args) {
         Inventory i1 = new Inventory();
         NonPerishable p1 = new NonPerishable("CDM","b1",
